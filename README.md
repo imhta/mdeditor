@@ -4,6 +4,10 @@
 
 > Currently tested on stackoverflow, github, dev.to
 
+## Screenshots
+
+<img src="asserts/ss1.png">
+
 ## Installation
 
 #### Clone
