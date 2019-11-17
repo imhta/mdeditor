@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-<img src="asserts/ss1.png">
+<img src="assets/ss1.png">
 
 ## Installation
 
